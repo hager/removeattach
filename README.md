@@ -19,7 +19,7 @@ Usage
 
 Pipe mime encoded e-mail message from procmailrc to removeattach.
 
-Sample .procmailrc entry to handle Gmail illegal attachment bounce entries:
+Sample .procmailrc entry to handle Gmail illegal attachment bounces:
 
     :0c:
     *
